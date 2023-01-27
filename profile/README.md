@@ -1,5 +1,4 @@
 <h1 align="center" style="font-weight: 800; border: none; padding: 5px; color: #E5AAC9;">CASA T LISBOA</h1>
-<hr />
 <br />
 <br />
 <h3 align="center" style="font-weight: 800; color: #61A3CC;">Carta de Apresentação</h3>
